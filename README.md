@@ -1,5 +1,5 @@
 # House_Price_Prediction
-https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/491.gif
+
 This project was created using Machine Learning with Python, the project was made by using the
 Boston house price prediction dataset, which is a dataset that comes from UCL machine learning
 repository, and this data was collected in 1978, the data has 506 entries that represents aggregate
